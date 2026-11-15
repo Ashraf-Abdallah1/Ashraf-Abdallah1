@@ -1,4 +1,4 @@
-# Hoi, ik ben Ashraf 👋
+# Hoi, ik ben Ashraf 
 
 Ik ben altijd nieuwsgierig geweest naar hoe software werkt. Hoe je met een paar regels code iets maakt dat een ander daarna gewoon kan gebruiken, dat vind ik nog steeds het mooiste aan dit vak.
 

@@ -1,43 +1,29 @@
-# Hoi, ik ben Ashraf Abdallah
+# Hoi, ik ben Ashraf 👋
 
-Student HBO-ICT aan de HZ University of Applied Sciences, propedeuse cum laude behaald. Daarvoor heb ik de mbo-4-opleiding Software Developer bij Scalda afgerond. Ik bouw graag webapplicaties die mensen echt gebruiken.
+Ik ben altijd nieuwsgierig geweest naar hoe software werkt. Hoe je met een paar regels code iets maakt dat een ander daarna gewoon kan gebruiken, dat vind ik nog steeds het mooiste aan dit vak.
 
-Ik woon in Zeeland en zoek een bijbaan als developer, op locatie of op afstand.
+Op het mbo bij Scalda merkte ik dat programmeren echt bij me past. Na mijn diploma wilde ik niet stoppen, dus ben ik HBO-ICT gaan doen aan de HZ. Mijn propedeuse heb ik daar cum laude gehaald, en daar ben ik best trots op.
 
-## Waar ik mee werk
+Ik zoek nu een bijbaan als developer, in Zeeland of op afstand. Ik leer het liefst door te doen, samen met mensen die er meer van weten dan ik.
 
-**Talen:** Java, PHP, TypeScript, JavaScript, SQL  
-**Front-end:** React, HTML, CSS, Bootstrap, Twig  
-**Back-end:** Node.js, Express, Struts, Hibernate  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, Docker, GitHub Actions, PHPUnit, Scrum
+## Waar ik trots op ben
 
-## Projecten
+**Pasimo & QRGoats**  
+Dit is het project waar ik het meest van heb geleerd. Met zes developers hebben we een aanwezigheidssysteem gebouwd voor Scalda. Studenten checken in met een QR-code op hun telefoon en melden zich ziek of te laat. Docenten zien wie er is, passen roosters aan en bekijken statistieken. Het wordt nu op alle Scalda-locaties in Zeeland gebruikt. Iets bouwen dat elke dag door echte mensen gebruikt wordt, dat gevoel wil ik vaker.  
+*Java, Struts, Hibernate, MySQL. De code is van de school en mag niet openbaar, dus deze repository is privé.*
 
-### Pasimo & QRGoats — aanwezigheidssysteem, in gebruik
-Aanwezigheidssysteem dat op alle Scalda-locaties in Zeeland wordt gebruikt. Studenten checken in en uit met een QR-code op hun telefoon, melden zich ziek of te laat en bekijken hun rooster. Docenten volgen de aanwezigheid, beoordelen afwezigheidsaanvragen, beheren roosters en zien statistieken per student. Gebouwd met een team van zes developers volgens Scrum.
+**STE Werkmiddelwijzer**  
+Hier werk ik nu aan. Een webapplicatie die helpt kiezen welk werkmiddel het beste past bij een klus in de bouw, bijvoorbeeld een steiger of een hoogwerker. Je vult de situatie in en krijgt een vergelijking op geschiktheid, tijd, kosten en veiligheid.  
+*React, Node.js, Express, PostgreSQL. Nog in ontwikkeling en mag nog niet openbaar, dus ook privé.*
 
-`Java` `Struts` `Hibernate` `MySQL` `JSP` `JavaScript`
+**[Space Taxi](https://github.com/Ashraf-Abdallah1/space-taxi)**  
+Een spel over het zonnestelsel dat we met vier studenten hebben gemaakt, zonder game-engine. Je vliegt aliens naar de juiste planeet en beantwoordt vragen. Het was mijn eerste echte kennismaking met objectgeoriënteerd programmeren, en vooral heel leuk om te maken.  
+*TypeScript, HTML5 Canvas.*
 
-*Privé-repository: de code is van de school en mag niet openbaar gemaakt worden.*
+**[PHP MVC Portfolio](https://github.com/Ashraf-Abdallah1/php-mvc-portfolio)**  
+Mijn studieportfolio, gebouwd zonder groot framework. Ik wilde snappen wat er onder de motorkap gebeurt: routing, inloggen, rollen, tests. Dat was soms frustrerend, maar daardoor begrijp ik het nu wel.  
+*PHP, MySQL, Docker, PHPUnit.*
 
-### STE Werkmiddelwijzer — in ontwikkeling
-Webapplicatie voor werkvoorbereiding in de bouw. De gebruiker vult de omstandigheden van een klus in, waarna de applicatie de beschikbare werkmiddelen, zoals steigers en hoogwerkers, vergelijkt op geschiktheid, doorlooptijd, kosten en valrisico. Rapportages kun je opslaan, hergebruiken en als pdf exporteren. Met aparte rollen voor gebruikers en beheerders.
+## Even contact?
 
-`React` `Node.js` `Express` `PostgreSQL` `Vite`
-
-*Privé-repository: het project is nog in ontwikkeling en mag niet openbaar gemaakt worden.*
-
-### [Space Taxi](https://github.com/Ashraf-Abdallah1/space-taxi)
-Educatief browserspel over het zonnestelsel, gebouwd zonder game-engine. Breng passagiers naar de juiste planeet en beantwoord vragen om je raket te upgraden.
-
-`TypeScript` `HTML5 Canvas` `OOP`
-
-### [PHP MVC Portfolio](https://github.com/Ashraf-Abdallah1/php-mvc-portfolio)
-Studieportfolio op een klein eigen MVC-framework, met inloggen, rollen, een blog met JSON-API, automatische tests en CI.
-
-`PHP` `MySQL` `Docker` `PHPUnit` `GitHub Actions`
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/)
+Stuur me gerust een bericht via [LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/). Ik hoor graag van je.

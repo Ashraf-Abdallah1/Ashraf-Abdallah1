@@ -42,4 +42,4 @@ Inloggen, rollen, een blog met JSON-API en een dashboard, op een eigen klein fra
 
 ## Beschikbaar
 
-Ik zoek een bijbaan als developer, in Zeeland of op afstand. Wil je iemand die snel leert en meteen meebouwt? Stuur me een bericht via [LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/).
+ Stuur me een bericht via [LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/).

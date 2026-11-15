@@ -1,29 +1,45 @@
-# Hoi, ik ben Ashraf 
+# Ashraf Abdallah
 
-Ik ben altijd nieuwsgierig geweest naar hoe software werkt. Hoe je met een paar regels code iets maakt dat een ander daarna gewoon kan gebruiken, dat vind ik nog steeds het mooiste aan dit vak.
+**Developer die dingen afmaakt. En zorgt dat ze gebruikt worden.**
 
-Op het mbo bij Scalda merkte ik dat programmeren echt bij me past. Na mijn diploma wilde ik niet stoppen, dus ben ik HBO-ICT gaan doen aan de HZ. Mijn propedeuse heb ik daar cum laude gehaald, en daar ben ik best trots op.
+Software die ik heb meegebouwd draait vandaag op alle Scalda-locaties in Zeeland. Mijn propedeuse HBO-ICT aan de HZ haalde ik cum laude, bovenop een afgeronde mbo-4-opleiding Software Developer. Ik ben eerstejaars af, maar ik programmeer al jaren.
 
-Ik zoek nu een bijbaan als developer, in Zeeland of op afstand. Ik leer het liefst door te doen, samen met mensen die er meer van weten dan ik.
+Geef me een probleem en ik bouw de oplossing: van database tot de knop waar de gebruiker op drukt.
 
-## Waar ik trots op ben
+## Wat ik kan
 
-**Pasimo & QRGoats**  
-Dit is het project waar ik het meest van heb geleerd. Met zes developers hebben we een aanwezigheidssysteem gebouwd voor Scalda. Studenten checken in met een QR-code op hun telefoon en melden zich ziek of te laat. Docenten zien wie er is, passen roosters aan en bekijken statistieken. Het wordt nu op alle Scalda-locaties in Zeeland gebruikt. Iets bouwen dat elke dag door echte mensen gebruikt wordt, dat gevoel wil ik vaker.  
-*Java, Struts, Hibernate, MySQL. De code is van de school en mag niet openbaar, dus deze repository is privé.*
+- **Full-stack bouwen.** Java, PHP, TypeScript en JavaScript aan de achterkant, React en gewoon goede HTML en CSS aan de voorkant.
+- **Begrijpen wat er onder de motorkap gebeurt.** Ik heb een MVC-applicatie gebouwd zonder Laravel of Symfony, juist om te snappen hoe routing, middleware en dependency injection echt werken.
+- **Code opleveren die blijft werken.** Unit- en integratietests, statische analyse en een CI-pipeline horen er bij mij gewoon bij.
+- **In een team trekken.** Scrum, pull requests, code reviews. In het Space Taxi-team stond ik bovenaan in commits.
+- **Zelf deployen.** Docker, GitHub Actions, Railway, Vercel.
 
-**STE Werkmiddelwijzer**  
-Hier werk ik nu aan. Een webapplicatie die helpt kiezen welk werkmiddel het beste past bij een klus in de bouw, bijvoorbeeld een steiger of een hoogwerker. Je vult de situatie in en krijgt een vergelijking op geschiktheid, tijd, kosten en veiligheid.  
-*React, Node.js, Express, PostgreSQL. Nog in ontwikkeling en mag nog niet openbaar, dus ook privé.*
+## Wat ik heb gebouwd
 
-**[Space Taxi](https://github.com/Ashraf-Abdallah1/space-taxi)**  
-Een spel over het zonnestelsel dat we met vier studenten hebben gemaakt, zonder game-engine. Je vliegt aliens naar de juiste planeet en beantwoordt vragen. Het was mijn eerste echte kennismaking met objectgeoriënteerd programmeren, en vooral heel leuk om te maken.  
-*TypeScript, HTML5 Canvas.*
+### Pasimo & QRGoats: in productie bij Scalda
+Het aanwezigheidssysteem van Scalda, gebouwd met een team van zes. Studenten checken in met een QR-code op hun telefoon, melden zich ziek of te laat en zien hun rooster. Docenten volgen live wie er is, beheren roosters en bekijken statistieken per student. Geen schoolopdracht die in een la verdween: dit wordt elke schooldag gebruikt, in heel Zeeland.
 
-**[PHP MVC Portfolio](https://github.com/Ashraf-Abdallah1/php-mvc-portfolio)**  
-Mijn studieportfolio, gebouwd zonder groot framework. Ik wilde snappen wat er onder de motorkap gebeurt: routing, inloggen, rollen, tests. Dat was soms frustrerend, maar daardoor begrijp ik het nu wel.  
-*PHP, MySQL, Docker, PHPUnit.*
+`Java` `Struts` `Hibernate` `MySQL` `JavaScript`
 
-## Even contact?
+*Privé: de code is van de school en mag niet openbaar gemaakt worden.*
 
-Stuur me gerust een bericht via [LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/). Ik hoor graag van je.
+### STE Werkmiddelwijzer: nu in ontwikkeling
+Een webapplicatie die werkvoorbereiders in de bouw laat kiezen tussen werkmiddelen zoals steigers en hoogwerkers. Je voert de situatie in en krijgt een onderbouwde vergelijking op geschiktheid, doorlooptijd, kosten en valrisico, inclusief rapportage als pdf.
+
+`React` `Node.js` `Express` `PostgreSQL`
+
+*Privé: nog in ontwikkeling en mag nog niet openbaar gemaakt worden.*
+
+### [Space Taxi](https://github.com/Ashraf-Abdallah1/space-taxi)
+Een educatief spel over het zonnestelsel, volledig objectgeoriënteerd en zonder game-engine. Eigen game loop, eigen scenes, eigen collision checks. Ik bouwde de basisklassen, de speler, het tweede level en de vragenflow.
+
+`TypeScript` `HTML5 Canvas`
+
+### [PHP MVC Portfolio](https://github.com/Ashraf-Abdallah1/php-mvc-portfolio)
+Inloggen, rollen, een blog met JSON-API en een dashboard, op een eigen klein framework. Getest, in Docker en automatisch gedeployed.
+
+`PHP` `MySQL` `Docker` `PHPUnit` `GitHub Actions`
+
+## Beschikbaar
+
+Ik zoek een bijbaan als developer, in Zeeland of op afstand. Wil je iemand die snel leert en meteen meebouwt? Stuur me een bericht via [LinkedIn](https://www.linkedin.com/in/mohamad-ashraf-abdallah/).
